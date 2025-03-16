@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou Felipe Guasti!
 
-💻 **Professor de inglês e programação** | 🎓 **Entusiasta de tecnologia**  
+💻 **Professor de inglês e programador nas horas vagas** | 🎓 **Entusiasta de tecnologia**  
 🔹 Apaixonado por ensino e desenvolvimento web.
 
 ---
