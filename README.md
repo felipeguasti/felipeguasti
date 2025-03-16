@@ -20,8 +20,8 @@
 ### 📊 Estatísticas do GitHub:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipeguasti&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeguasti&layout=compact&theme=tokyonight"/>
+  <img width="48%" height="150px" src="https://github-readme-stats.vercel.app/api?username=felipeguasti&show_icons=true&theme=tokyonight"/>
+  <img width="48%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeguasti&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
